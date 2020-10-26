@@ -1,11 +1,13 @@
 # mpi-codes
 
-Compile:
+High Performance Computing using MPI Workshop Slides - [Link](https://www.slideshare.net/ankitmahato/hpc-workshop)
+
+Compile code using:
 ```
 mpicc filename.c
 ```
 
-Execute:
+Execute it using:
 ```
 mpirun -np NUM_OF_PROCS ./a.out
 ```
